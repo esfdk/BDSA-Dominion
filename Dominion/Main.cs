@@ -1,6 +1,5 @@
 ﻿namespace Dominion
 {
-
     /// <summary>
     /// TODO: Update summary.
     /// </summary>
