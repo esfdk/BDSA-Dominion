@@ -21,6 +21,7 @@ Thumbs.db
 *.toc
 *.synctex.gz
 *.aux
+*.dotCover
 [Bb]in
 [Dd]ebug*/
 *.lib
